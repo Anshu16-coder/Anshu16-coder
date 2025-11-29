@@ -6,10 +6,6 @@
   <br>📍 Sophomore at Sitare University, Lucknow  
   <br>💻 Loves Web Dev • Python • Automation • Data  
 </p>
-
----
-
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -39,15 +35,6 @@
   <a href="https://www.linkedin.com/in/anshuyadavv/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
 </p>
 
----
-
-## 🏅 My Achievements
-
-<p align="center">
-  <a href="https://github.com/Anshu16-coder?tab=achievements">
-    👉 Click here to view all my GitHub Achievements
-  </a>
-</p>
 
 ---
 
