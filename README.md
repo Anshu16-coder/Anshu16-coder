@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anshu Kumar</h1>
-<h3 align="center">CSE Student | Web Developer | Python & DSA Learner</h3>
+<h3 align="center">CSE Student | Python & DSA Learner</h3>
 
 <p align="center">
-  🌐 Building cool projects like <b>News Analyser Website</b> & <b>Safarnama-E-India</b>  
+  🌐 Building cool projects 
   <br>📍 Sophomore at Sitare University, Lucknow  
   <br>💻 Loves Web Dev • Python • Automation • Data  
 </p>
@@ -44,10 +44,10 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" height="40"></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="40"></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
+  <a href="https://instagram.com/anshuy_1.6"><img src="https://skillicons.dev/icons?i=instagram" height="40"></a>
+  <a href="https://x.com/rajanshuman263"><img src="https://skillicons.dev/icons?i=twitter" height="40"></a>
+  <a href="mailto:rajanshuman263@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
+  <a href="https://www.linkedin.com/in/anshuyadavv/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
 </p>
 
 ---
@@ -62,23 +62,7 @@
 
 ---
 
-## 🎖️ Holopin Badge Board
 
-<p align="center">
-  <a href="https://holopin.io/@YOUR_HOLOPIN_USERNAME">
-    <img src="https://holopin.me/YOUR_HOLOPIN_USERNAME">
-  </a>
-</p>
-
----
-
-## 🐍 Snake Eating My Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/Anshu16-coder/Anshu16-coder/blob/output/github-contribution-grid-snake.svg">
-</p>
-
----
 
 ## 🧩 LeetCode Stats
 
