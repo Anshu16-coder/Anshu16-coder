@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshu Kumar</h1>
-<h3 align="center">CSE Student | Python & DSA Learner</h3>
+<h3 align="center">CSE Student | Java & DSA Learner</h3>
 
 <p align="center">
   🌐 Building cool projects 
