@@ -1,6 +1,9 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anshu%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CSE%20Student%20·%20Python%20·%20Java%20·%20Web%20Dev&descAlignY=55&descSize=18"/>
 <h1 align="center">Hi 👋, I'm Anshu Kumar</h1>
 <h3 align="center">CSE Student · Python · Java · Web Dev · Data</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=CSE+Student+%40+Sitare+University;Python+%7C+Java+%7C+Web+Dev+%7C+Data;Always+learning+something+new!" />
 <p align="center">
   📍 Sitare University with SRMU, Lucknow &nbsp;|&nbsp;
   🎓 B.Tech CSE · May 2027 &nbsp;|&nbsp;
@@ -14,13 +17,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anshu16-coder&theme=dracula&row=1&column=6" />
-</p>
-
----
 
 ## 🛠 Tech Stack
 
@@ -108,12 +105,14 @@
 
 ---
 
+
+
 ## 🧩 LeetCode Stats
-
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/CodebyAnshu03?theme=dark&font=Nunito&ext=heatmap" height="260" />
+  <a href="https://leetcode.com/CodebyAnshu03">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=CodebyAnshu03&theme=dark&border=none" />
+  </a>
 </p>
-
 ---
 
 ## 🤝 Connect With Me
@@ -126,12 +125,7 @@
   <a href="mailto:rajanshuman263@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
-  &nbsp;
-  <a href="https://instagram.com/anshuy_1.6">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/rajanshuman263">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
-  </a>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
