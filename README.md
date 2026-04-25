@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=CSE+Student+%40+Sitare+University;Python+%7C+Java+%7C+Web+Dev+%7C+Data;Always+learning+something+new!" />
+</p>  
 <p align="center">
   📍 Sitare University with SRMU, Lucknow &nbsp;|&nbsp;
   🎓 B.Tech CSE · May 2027 &nbsp;|&nbsp;
@@ -109,9 +110,7 @@
 
 ## 🧩 LeetCode Stats
 <p align="center">
-  <a href="https://leetcode.com/CodebyAnshu03">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=CodebyAnshu03&theme=dark&border=none" />
-  </a>
+  <img src="https://leetcard.jacoblin.cool/CodebyAnshu03?theme=dark&font=Nunito&ext=heatmap" />
 </p>
 ---
 
