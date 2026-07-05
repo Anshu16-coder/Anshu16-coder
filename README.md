@@ -83,56 +83,6 @@ I enjoy building real-world software projects, solving challenging problems, and
 
 ---
 
-## 🚀 Featured Projects
-
-### 📰 News Analyser WebApp
-A web application that scrapes real-time news from multiple sources, performs sentiment analysis, and visualizes insights using interactive charts.
-
-**Tech Stack:** Flask • BeautifulSoup • Pandas • TextBlob • VADER • Chart.js • HTML • CSS • JavaScript
-
-🔗 **GitHub:** Repository Link  
-🌐 **Live Demo:** Demo Link
-
----
-
-### 🔄 Skill Swap WebApp
-A platform where users can exchange skills, connect with others, and learn through peer collaboration.
-
-**Tech Stack:** Next.js • TypeScript • Tailwind CSS • Firebase
-
-🔗 **GitHub:** Repository Link  
-🌐 **Live Demo:** Demo Link
-
----
-
-### 🔗 LinkedIn Network Analysis
-Analyzed student professional connections by constructing graph structures and performing random walk analysis.
-
-**Tech Stack:** Python • Pandas • CSV Processing
-
-🔗 **GitHub:** Repository Link
-
----
-
-### 🌍 Safarnama-E-India
-A tourism directory web application that helps users discover tourist destinations across India.
-
-**Tech Stack:** FastAPI • HTML • CSS • JavaScript • SQLite
-
-🔗 **GitHub:** Repository Link  
-🌐 **Live Demo:** Demo Link
-
----
-
-### ✅ FixitToday
-An English grammar and spoken English learning platform with interactive practice features.
-
-**Tech Stack:** Python • Flask • JavaScript
-
-🔗 **GitHub:** Repository Link
-
----
-
 ## 📈 GitHub Statistics
 
 <p align="center">
@@ -154,13 +104,6 @@ An English grammar and spoken English learning platform with interactive practic
 
 ---
 
-## 🧩 LeetCode
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/CodebyAnshu03?theme=dark&font=Nunito&ext=heatmap"/>
-</p>
-
----
 
 ## 💼 Opportunities
 
