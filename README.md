@@ -1,71 +1,174 @@
 # Hi 👋, I'm Anshu Kumar
 
-Computer Science undergraduate interested in Software Development • Artificial Intelligence • Web Development • Backend Engineering • Data Structures & Algorithms
+### **Computer Science Undergraduate passionate about Software Development, Artificial Intelligence, Backend Engineering, Web Development, and Data Structures & Algorithms.**
 
 ---
 
-## About
+## 📬 Connect
 
-I am a B.Tech Computer Science student at Sitare University.
+- 💼 **LinkedIn:** https://linkedin.com/in/anshuyadavv
+- 💻 **GitHub:** https://github.com/Anshu16-coder
+- 🧩 **LeetCode:** https://leetcode.com/u/CodebyAnshu03
+- 📧 **Email:** rajanshuman263@gmail.com
 
-I enjoy building real-world software projects and continuously improving my problem-solving skills.
+---
 
-Interested in:
+## 👨‍💻 About
+
+I am a B.Tech Computer Science student at **Sitare University**.
+
+I enjoy building real-world software projects, solving challenging problems, and continuously learning new technologies. My interests span software engineering, artificial intelligence, backend development, and scalable web applications.
+
+### Areas of Interest
 
 - Software Development
 - Artificial Intelligence
+- Backend Engineering
 - Web Development
-- Backend Development
 - Data Structures & Algorithms
 - System Design
 - APIs & Automation
 
 ---
 
-## Skills
+## 🛠 Skills
 
-### Programming Languages
-<!-- Skill Icons -->
+### 💻 Programming Languages
 
-Python • Java • JavaScript • C • SQL
+- Python
+- Java
+- JavaScript
+- C
+- SQL
 
-### Web Development
+### 🌐 Web Development
 
-HTML • CSS • Flask • Next.js • TypeScript • Tailwind CSS
+- HTML5
+- CSS3
+- Flask
+- Next.js
+- TypeScript
+- Tailwind CSS
+- REST APIs
 
-### Databases
+### 🗄️ Databases
 
-MySQL • PostgreSQL • Firebase
+- MySQL
+- PostgreSQL
+- Firebase
 
-### Libraries & Tools
+### 📊 Data Science & Libraries
 
-Pandas • NumPy • BeautifulSoup • Git • GitHub • Linux • VS Code
+- Pandas
+- NumPy
+- BeautifulSoup
+- TextBlob
+- VADER
+- Matplotlib
+
+### ⚙️ Tools & Platforms
+
+- Git
+- GitHub
+- Linux
+- VS Code
+- Postman
+
+### 🧠 Computer Science
+
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
+- System Design (Learning)
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-- 📰 **News Analyser WebApp**
-- 🔄 **Skill Swap WebApp**
-- 🔗 **LinkedIn Network Analysis**
-- 🌍 **Safarnama-E-India**
-- ✅ **FixitToday**
+### 📰 News Analyser WebApp
+A web application that scrapes real-time news from multiple sources, performs sentiment analysis, and visualizes insights using interactive charts.
 
-> *(You can make each project name clickable by linking it to its GitHub repository or live demo.)*
+**Tech Stack:** Flask • BeautifulSoup • Pandas • TextBlob • VADER • Chart.js • HTML • CSS • JavaScript
 
----
-
-## Opportunities
-
-Actively seeking Software Engineering Internship opportunities in:
-
-**Software Development • Backend Engineering • Artificial Intelligence • Web Development**
+🔗 **GitHub:** Repository Link  
+🌐 **Live Demo:** Demo Link
 
 ---
 
-## Connect
+### 🔄 Skill Swap WebApp
+A platform where users can exchange skills, connect with others, and learn through peer collaboration.
 
-- 💼 LinkedIn: linkedin.com/in/anshuyadavv
-- 💻 GitHub: github.com/Anshu16-coder
-- 🧩 LeetCode: leetcode.com/u/CodebyAnshu03
-- 📧 rajanshuman263@gmail.com
+**Tech Stack:** Next.js • TypeScript • Tailwind CSS • Firebase
+
+🔗 **GitHub:** Repository Link  
+🌐 **Live Demo:** Demo Link
+
+---
+
+### 🔗 LinkedIn Network Analysis
+Analyzed student professional connections by constructing graph structures and performing random walk analysis.
+
+**Tech Stack:** Python • Pandas • CSV Processing
+
+🔗 **GitHub:** Repository Link
+
+---
+
+### 🌍 Safarnama-E-India
+A tourism directory web application that helps users discover tourist destinations across India.
+
+**Tech Stack:** FastAPI • HTML • CSS • JavaScript • SQLite
+
+🔗 **GitHub:** Repository Link  
+🌐 **Live Demo:** Demo Link
+
+---
+
+### ✅ FixitToday
+An English grammar and spoken English learning platform with interactive practice features.
+
+**Tech Stack:** Python • Flask • JavaScript
+
+🔗 **GitHub:** Repository Link
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anshu16-coder&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshu16-coder&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Anshu16-coder&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshu16-coder&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🧩 LeetCode
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/CodebyAnshu03?theme=dark&font=Nunito&ext=heatmap"/>
+</p>
+
+---
+
+## 💼 Opportunities
+
+I am actively seeking **Software Engineering Internship** opportunities in:
+
+- Software Development
+- Backend Engineering
+- Artificial Intelligence
+- Web Development
+
+I am always open to collaborating on interesting open-source projects and innovative software ideas.
