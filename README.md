@@ -1,36 +1,71 @@
-# Hi 👋 I'm Anshu Kumar
+# Hi 👋, I'm Anshu Kumar
 
-B.Tech CSE Student at Sitare University.
-Passionate about software development and building real-world projects.
+Computer Science undergraduate interested in Software Development • Artificial Intelligence • Web Development • Backend Engineering • Data Structures & Algorithms
 
-## 🚀 Tech Stack
-- **Languages:** Python, Java, JavaScript, C, SQL
-- **Frontend:** HTML, CSS, Tailwind CSS
-- **Backend:** Flask, Next.js, Firebase
-- **Databases:** MySQL, PostgreSQL
-- **Tools:** Git, GitHub, Linux, VS Code
+---
 
-## 📂 Featured Projects
+## About
 
-| Project | Description | Link |
-|---------|-------------|------|
-| 📰 News Analyser | News scraping & sentiment analysis | 🔗 GitHub / Live |
-| 🔄 Skill Swap | Skill exchange platform | 🔗 GitHub / Live |
-| 🔗 LinkedIn Network Analysis | Graph analysis project | 🔗 GitHub |
-| 🌍 Safarnama-E-India | Tourism directory | 🔗 GitHub / Live |
+I am a B.Tech Computer Science student at Sitare University.
 
-## 📊 Coding Profiles
+I enjoy building real-world software projects and continuously improving my problem-solving skills.
 
-- 💻 GitHub: https://github.com/Anshu16-coder
-- 🧩 LeetCode: https://leetcode.com/u/CodebyAnshu03
-- 💼 LinkedIn: https://linkedin.com/in/anshuyadavv
+Interested in:
 
-## 📈 GitHub Stats
+- Software Development
+- Artificial Intelligence
+- Web Development
+- Backend Development
+- Data Structures & Algorithms
+- System Design
+- APIs & Automation
 
-<!-- GitHub Stats Card -->
-<!-- Streak -->
-<!-- Activity Graph -->
+---
 
-## 📫 Contact
+## Skills
 
-📧 rajanshuman263@gmail.com
+### Programming Languages
+<!-- Skill Icons -->
+
+Python • Java • JavaScript • C • SQL
+
+### Web Development
+
+HTML • CSS • Flask • Next.js • TypeScript • Tailwind CSS
+
+### Databases
+
+MySQL • PostgreSQL • Firebase
+
+### Libraries & Tools
+
+Pandas • NumPy • BeautifulSoup • Git • GitHub • Linux • VS Code
+
+---
+
+## Featured Projects
+
+- 📰 **News Analyser WebApp**
+- 🔄 **Skill Swap WebApp**
+- 🔗 **LinkedIn Network Analysis**
+- 🌍 **Safarnama-E-India**
+- ✅ **FixitToday**
+
+> *(You can make each project name clickable by linking it to its GitHub repository or live demo.)*
+
+---
+
+## Opportunities
+
+Actively seeking Software Engineering Internship opportunities in:
+
+**Software Development • Backend Engineering • Artificial Intelligence • Web Development**
+
+---
+
+## Connect
+
+- 💼 LinkedIn: linkedin.com/in/anshuyadavv
+- 💻 GitHub: github.com/Anshu16-coder
+- 🧩 LeetCode: leetcode.com/u/CodebyAnshu03
+- 📧 rajanshuman263@gmail.com
