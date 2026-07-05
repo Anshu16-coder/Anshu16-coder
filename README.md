@@ -1,85 +1,45 @@
 # Hi 👋, I'm Anshu Kumar
 
-### **Computer Science Undergraduate passionate about Software Development, Artificial Intelligence, Backend Engineering, Web Development, and Data Structures & Algorithms.**
+### **Computer Science Undergraduate passionate about Software Development, Artificial Intelligence, Backend Engineering, and Web Development.**
 
----
-
-## 📬 Connect
-
-- 💼 **LinkedIn:** https://linkedin.com/in/anshuyadavv
-- 💻 **GitHub:** https://github.com/Anshu16-coder
-- 🧩 **LeetCode:** https://leetcode.com/u/CodebyAnshu03
-- 📧 **Email:** rajanshuman263@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/anshuyadavv">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Anshu16-coder">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/CodebyAnshu03">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="mailto:rajanshuman263@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About
 
-I am a B.Tech Computer Science student at **Sitare University**.
+I am a B.Tech Computer Science student at **Sitare University** passionate about building scalable software and solving real-world problems.
 
-I enjoy building real-world software projects, solving challenging problems, and continuously learning new technologies. My interests span software engineering, artificial intelligence, backend development, and scalable web applications.
-
-### Areas of Interest
-
-- Software Development
-- Artificial Intelligence
-- Backend Engineering
-- Web Development
-- Data Structures & Algorithms
-- System Design
-- APIs & Automation
+- 🌱 Currently learning **Data Structures & Algorithms** and **System Design**
+- 💻 Interested in **Software Engineering, AI, Backend Development, and Web Development**
+- 🚀 Building real-world software projects with modern technologies
 
 ---
 
 ## 🛠 Skills
 
-### 💻 Programming Languages
+**Languages:** Python • Java • JavaScript • C • SQL
 
-- Python
-- Java
-- JavaScript
-- C
-- SQL
+**Web:** HTML • CSS • Flask • Next.js • TypeScript • Tailwind CSS • REST APIs
 
-### 🌐 Web Development
+**Databases:** MySQL • PostgreSQL • Firebase
 
-- HTML5
-- CSS3
-- Flask
-- Next.js
-- TypeScript
-- Tailwind CSS
-- REST APIs
+**Tools:** Git • GitHub • Linux • VS Code • Postman
 
-### 🗄️ Databases
-
-- MySQL
-- PostgreSQL
-- Firebase
-
-### 📊 Data Science & Libraries
-
-- Pandas
-- NumPy
-- BeautifulSoup
-- TextBlob
-- VADER
-- Matplotlib
-
-### ⚙️ Tools & Platforms
-
-- Git
-- GitHub
-- Linux
-- VS Code
-- Postman
-
-### 🧠 Computer Science
-
-- Data Structures & Algorithms
-- Object-Oriented Programming (OOP)
-- Database Management Systems (DBMS)
-- System Design (Learning)
+**Libraries:** Pandas • NumPy • BeautifulSoup • Matplotlib • TextBlob • VADER
 
 ---
 
@@ -104,14 +64,6 @@ I enjoy building real-world software projects, solving challenging problems, and
 
 ---
 
+## 💼 Open to Opportunities
 
-## 💼 Opportunities
-
-I am actively seeking **Software Engineering Internship** opportunities in:
-
-- Software Development
-- Backend Engineering
-- Artificial Intelligence
-- Web Development
-
-I am always open to collaborating on interesting open-source projects and innovative software ideas.
+I am actively seeking **Software Engineering Internship** opportunities and enjoy collaborating on open-source projects and innovative software ideas.
