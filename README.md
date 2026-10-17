@@ -153,12 +153,15 @@ I'm a **third-year B.Tech Computer Science student at Sitare University (SRMU)**
   </a>
 </p>
 
-## 💼 Open to Opportunities
-
-I'm actively seeking **Software Engineering Internship** opportunities and enjoy collaborating on open-source projects and innovative software ideas.
-
-📫 **Reach me:** [rajanshuman263@gmail.com](mailto:rajanshuman263@gmail.com) • [LinkedIn](https://www.linkedin.com/in/anshuyadavv)
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,100:181717&height=100&section=footer"/>
+  <b>Open to internships and collaboration.</b><br/>
+  📫 <a href="mailto:rajanshuman263@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/anshuyadavv">LinkedIn</a> •
+  <a href="https://leetcode.com/u/CodebyAnshu03">LeetCode</a>
+</p>
+
+<p align="center">
+  <i>Learn it, build it, break it, fix it, repeat.</i> 🔁
 </p>
