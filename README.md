@@ -120,11 +120,18 @@ I'm a **third-year B.Tech Computer Science student at Sitare University (SRMU)**
 
 ---
 
-## 🏆 GitHub Achievements
+## 📊 GitHub Dashboard
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anshu16-coder&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Anshu16-coder&show_icons=true&hide_border=true&bg_color=0d1117&title_color=E63946&icon_color=E63946&text_color=c9d1d9&border_radius=10&hide_title=false&count_private=true"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshu16-coder&layout=donut&hide_border=true&bg_color=0d1117&title_color=E63946&text_color=c9d1d9&border_radius=10"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Anshu16-coder&theme=github-dark&hide_border=true&border_radius=10&ring=E63946&fire=FF4D4D&currStreakLabel=FF4D4D"/>
