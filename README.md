@@ -22,13 +22,43 @@ I'm a **third-year B.Tech Computer Science student at Sitare University (SRMU)**
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,html,css,flask,nextjs,tailwind,mysql,postgres,firebase,git,github,linux,vscode,postman&perline=9" />
-</p>
-
-<p align="center">
-  <b>Libraries:</b> Pandas • NumPy • BeautifulSoup • Matplotlib • TextBlob • VADER
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="140"><b>💻 Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,java,js,ts,c&perline=5" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🌐 Web</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,nextjs,flask&perline=5" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🗄️ Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase&perline=3" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🧰 Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman&perline=5" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>📚 Libraries</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=pandas,numpy&perline=2" />
+      <br/>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+      <img src="https://img.shields.io/badge/BeautifulSoup-E63946?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/TextBlob-181717?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/VADER-181717?style=for-the-badge"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
