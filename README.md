@@ -155,16 +155,23 @@ I'm a **third-year B.Tech Computer Science student at Sitare University (SRMU)**
 
 ---
 
-## 🤝 Let's Work Together
+## 💼 Open to Opportunities
 
 <p align="center">
-  If you have an internship, project, or idea in mind, I'd love to hear from you.<br/>
-  <a href="mailto:rajanshuman263@gmail.com"><b>rajanshuman263@gmail.com</b></a>
+  I'm actively looking for a <b>Software Engineering Internship</b> where I can learn from a team, contribute to real projects, and grow as a developer.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Thanks_for_visiting-E63946?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://komarev.com/ghpvc/?username=Anshu16-coder&label=Visitors&color=E63946&style=for-the-badge"/>
+  <a href="mailto:rajanshuman263@gmail.com?subject=Opportunity%20for%20Anshu">
+    <img src="https://img.shields.io/badge/Email_Me-E63946?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/anshuyadavv">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=FF4D4D&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Let's+build+something+great+together+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
