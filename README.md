@@ -155,23 +155,10 @@ I'm a **third-year B.Tech Computer Science student at Sitare University (SRMU)**
 
 ---
 
-## 💼 Open to Opportunities
+---
 
 <p align="center">
-  I'm actively looking for a <b>Software Engineering Internship</b> where I can learn from a team, contribute to real projects, and grow as a developer.
-</p>
-
-<p align="center">
-  <a href="mailto:rajanshuman263@gmail.com?subject=Opportunity%20for%20Anshu">
-    <img src="https://img.shields.io/badge/Email_Me-E63946?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/anshuyadavv">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=FF4D4D&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Let's+build+something+great+together+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=FF4D4D&center=true&vCenter=true&width=550&lines=Thanks+for+stopping+by!;Learn+it%2C+build+it%2C+break+it%2C+fix+it%2C+repeat.+%F0%9F%94%81" />
 </p>
 
 <p align="center">
