@@ -9,19 +9,15 @@
 
 
 ## 👨‍💻 About Me
+I'm a **third-year B.Tech Computer Science student at Sitare University (SRMU)** who loves turning ideas into working software. I learn best by building, so most of what I study ends up in a project.
 
-I'm a B.Tech Computer Science student at **Sitare University**, passionate about building scalable software and solving real-world problems.
+- 💡 **What I enjoy:** solving problems with clean, logical code, mostly in **Java**
+- 🧠 **Sharpening my skills:** practicing **Data Structures & Algorithms** regularly
+- 🛠 **What I build:** projects that apply what I learn, from backend logic to web apps
+- 🌱 **Exploring next:** **AI**, **backend development**, and **System Design**
+- 🎯 **Looking for:** a **Software Engineering Internship** where I can learn from a team and contribute from day one
 
-```yaml
-name: Anshu Kumar
-role: CS Undergraduate
-university: Sitare University
-learning: [DSA, System Design]
-interests: [Software Engineering, AI, Backend, Web]
-goal: Software Engineering Internship
-status: Open to opportunities 🟢
-```
-
+> *"Learn it, build it, break it, fix it, repeat."* 🔁
 ---
 
 ## 🛠 Tech Stack
