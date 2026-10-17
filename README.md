@@ -9,6 +9,7 @@
 
 
 ## 👨‍💻 About Me
+
 I'm a **third-year B.Tech Computer Science student at Sitare University (SRMU)** who loves turning ideas into working software. I learn best by building, so most of what I study ends up in a project.
 
 - 💡 **What I enjoy:** solving problems with clean, logical code, mostly in **Java**
@@ -17,8 +18,7 @@ I'm a **third-year B.Tech Computer Science student at Sitare University (SRMU)**
 - 🌱 **Exploring next:** **AI**, **backend development**, and **System Design**
 - 🎯 **Looking for:** a **Software Engineering Internship** where I can learn from a team and contribute from day one
 
-> *"Learn it, build it, break it, fix it, repeat."* 🔁
----
+📬 **Want to connect or have an opportunity for me? Email me at [rajanshuman263@gmail.com](mailto:rajanshuman263@gmail.com)**
 
 ## 🛠 Tech Stack
 
