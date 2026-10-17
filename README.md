@@ -3,11 +3,8 @@
 </p>
 
 <h1 align="center">
-  &gt; Hello_World.exe 👨‍💻
+  // Hey, I'm Anshu Kumar 👋
 </h1>
-<h3 align="center">
-  Anshu Kumar | Building, Breaking & Debugging
-</h3>
 
 
 
