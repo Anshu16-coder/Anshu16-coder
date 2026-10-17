@@ -142,10 +142,16 @@ I'm a **third-year B.Tech Computer Science student at Sitare University (SRMU)**
 ## 🧩 LeetCode Progress
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/CodebyAnshu03?theme=dark&font=Fira%20Code&ext=heatmap" />
+  <a href="https://leetcode.com/u/CodebyAnshu03">
+    <img src="https://leetcard.jacoblin.cool/CodebyAnshu03?theme=dark&font=Fira%20Code&width=500" />
+  </a>
 </p>
 
----
+<p align="center">
+  <a href="https://leetcode.com/u/CodebyAnshu03">
+    <img src="https://img.shields.io/badge/View_Full_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
 
 ## 💼 Open to Opportunities
 
