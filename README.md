@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9A7&height=200&section=header&text=Anshu%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Undergraduate%20%7C%20Backend%20%7C%20AI%20%7C%20Web&descAlignY=58&descSize=18"/>
+  <img src="./assets/banner.png" alt="Anshu Kumar" width="100%"/>
 </p>
 
+<h1 align="center">Hi 👋, I'm Anshu Kumar</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=Building+scalable+software;Learning+DSA+%26+System+Design;Exploring+AI+%26+Backend+Engineering;Open+to+SDE+Internships" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4D4D&center=true&vCenter=true&width=650&lines=Building+scalable+software;Learning+DSA+%26+System+Design;Exploring+AI+%26+Backend+Engineering;Open+to+SDE+Internships" />
 </p>
 
 <p align="center">
@@ -22,7 +24,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anshu16-coder&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Anshu16-coder?style=for-the-badge&logo=github&color=E63946&labelColor=181717" />
+  <img src="https://komarev.com/ghpvc/?username=Anshu16-coder&label=Profile%20Views&color=E63946&style=for-the-badge" />
 </p>
 
 ---
@@ -31,10 +34,15 @@
 
 I'm a B.Tech Computer Science student at **Sitare University**, passionate about building scalable software and solving real-world problems.
 
-- 🌱 Currently learning **Data Structures & Algorithms** and **System Design**
-- 💻 Interested in **Software Engineering, AI, Backend Development, and Web Development**
-- 🚀 Building real-world software projects with modern technologies
-- 🎯 Goal: land a **Software Engineering Internship** and grow as an engineer
+```yaml
+name: Anshu Kumar
+role: CS Undergraduate
+university: Sitare University
+learning: [DSA, System Design]
+interests: [Software Engineering, AI, Backend, Web]
+goal: Software Engineering Internship
+status: Open to opportunities 🟢
+```
 
 ---
 
@@ -50,36 +58,77 @@ I'm a B.Tech Computer Science student at **Sitare University**, passionate about
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-<p align="center">
-  <a href="https://github.com/Anshu16-coder/YOUR-REPO-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anshu16-coder&repo=YOUR-REPO-1&theme=github_dark&hide_border=true&border_radius=10" />
-  </a>
-  <a href="https://github.com/Anshu16-coder/YOUR-REPO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anshu16-coder&repo=YOUR-REPO-2&theme=github_dark&hide_border=true&border_radius=10" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Anshu16-coder/YOUR-REPO-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anshu16-coder&repo=YOUR-REPO-3&theme=github_dark&hide_border=true&border_radius=10" />
-  </a>
-  <a href="https://github.com/Anshu16-coder/YOUR-REPO-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anshu16-coder&repo=YOUR-REPO-4&theme=github_dark&hide_border=true&border_radius=10" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📌 Project One</h3>
+      <p>One or two lines about what this project does and the problem it solves.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Anshu16-coder/YOUR-REPO-1">
+        <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+      </a>
+      <a href="https://your-live-demo-link.com">
+        <img src="https://img.shields.io/badge/Live_Demo-E63946?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📌 Project Two</h3>
+      <p>One or two lines about what this project does and the problem it solves.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Anshu16-coder/YOUR-REPO-2">
+        <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+      </a>
+      <a href="https://your-live-demo-link.com">
+        <img src="https://img.shields.io/badge/Live_Demo-E63946?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📌 Project Three</h3>
+      <p>One or two lines about what this project does and the problem it solves.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Anshu16-coder/YOUR-REPO-3">
+        <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📌 Project Four</h3>
+      <p>One or two lines about what this project does and the problem it solves.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Anshu16-coder/YOUR-REPO-4">
+        <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshu16-coder&show_icons=true&theme=github_dark&hide_border=true&border_radius=10" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshu16-coder&layout=compact&theme=github_dark&hide_border=true&border_radius=10" height="170"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Anshu16-coder&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anshu16-coder&theme=github-dark&hide_border=true&border_radius=10"/>
+  <img src="https://streak-stats.demolab.com?user=Anshu16-coder&theme=github-dark&hide_border=true&border_radius=10&ring=E63946&fire=FF4D4D&currStreakLabel=FF4D4D"/>
 </p>
 
 ---
@@ -92,22 +141,6 @@ I'm a B.Tech Computer Science student at **Sitare University**, passionate about
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anshu16-coder/Anshu16-coder/output/github-snake-dark.svg" />
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshu16-coder&theme=github-dark&hide_border=true&color=00C9A7&line=0A66C2&point=ffffff" />
-</p>
-
----
-
 ## 💼 Open to Opportunities
 
 I'm actively seeking **Software Engineering Internship** opportunities and enjoy collaborating on open-source projects and innovative software ideas.
@@ -115,5 +148,5 @@ I'm actively seeking **Software Engineering Internship** opportunities and enjoy
 📫 **Reach me:** [rajanshuman263@gmail.com](mailto:rajanshuman263@gmail.com) • [LinkedIn](https://www.linkedin.com/in/anshuyadavv)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9A7&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,100:181717&height=100&section=footer"/>
 </p>
