@@ -155,13 +155,18 @@ I'm a **third-year B.Tech Computer Science student at Sitare University (SRMU)**
 
 ---
 
+## 🤝 Let's Work Together
+
 <p align="center">
-  <b>Open to internships and collaboration.</b><br/>
-  📫 <a href="mailto:rajanshuman263@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/anshuyadavv">LinkedIn</a> •
-  <a href="https://leetcode.com/u/CodebyAnshu03">LeetCode</a>
+  If you have an internship, project, or idea in mind, I'd love to hear from you.<br/>
+  <a href="mailto:rajanshuman263@gmail.com"><b>rajanshuman263@gmail.com</b></a>
 </p>
 
 <p align="center">
-  <i>Learn it, build it, break it, fix it, repeat.</i> 🔁
+  <img src="https://img.shields.io/badge/Thanks_for_visiting-E63946?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=Anshu16-coder&label=Visitors&color=E63946&style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,100:181717&height=100&section=footer"/>
 </p>
