@@ -2,9 +2,12 @@
   <img src="./banner.jpg" alt="Anshu Kumar" width="100%"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Anshu Kumar</h1>
-
-
+<h1 align="center">
+  &gt; Hello_World.exe 👨‍💻
+</h1>
+<h3 align="center">
+  Anshu Kumar | Building, Breaking & Debugging
+</h3>
 
 
 
