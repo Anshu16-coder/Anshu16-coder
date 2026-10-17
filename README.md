@@ -157,10 +157,4 @@ I'm a **third-year B.Tech Computer Science student at Sitare University (SRMU)**
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=FF4D4D&center=true&vCenter=true&width=550&lines=Thanks+for+stopping+by!;Learn+it%2C+build+it%2C+break+it%2C+fix+it%2C+repeat.+%F0%9F%94%81" />
-</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,100:181717&height=100&section=footer"/>
-</p>
