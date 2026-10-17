@@ -67,58 +67,53 @@ I'm a **third-year B.Tech Computer Science student at Sitare University (SRMU)**
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📌 Project One</h3>
-      <p>One or two lines about what this project does and the problem it solves.</p>
+      <h3>📰 NewsAnalyser</h3>
+      <p><b>Live NDTV headlines with sentiment analysis.</b> Scrapes news from 7 categories (general, cricket, world, health, education, science, entertainment), classifies each article as Positive, Negative, or Neutral, and shows the results in interactive charts.</p>
+      <ul>
+        <li>⏰ Scraper runs automatically every day using GitHub Actions</li>
+        <li>🗄️ Articles stored in Neon Postgres, served by a read-only Flask API</li>
+        <li>📈 Sentiment-over-time trends page built with Chart.js</li>
+      </ul>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TextBlob-181717?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
       </p>
-      <a href="https://github.com/Anshu16-coder/YOUR-REPO-1">
+      <a href="https://github.com/Anshu16-coder/NewsAnalyser">
         <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
       </a>
-      <a href="https://your-live-demo-link.com">
+      <a href="https://news-analyser-ten.vercel.app/">
         <img src="https://img.shields.io/badge/Live_Demo-E63946?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>📌 Project Two</h3>
-      <p>One or two lines about what this project does and the problem it solves.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-      </p>
-      <a href="https://github.com/Anshu16-coder/YOUR-REPO-2">
-        <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
-      </a>
-      <a href="https://your-live-demo-link.com">
-        <img src="https://img.shields.io/badge/Live_Demo-E63946?style=for-the-badge&logo=vercel&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📌 Project Three</h3>
-      <p>One or two lines about what this project does and the problem it solves.</p>
+      <h3>📄 Resume Enhancer</h3>
+      <p><b>A friendly resume match checker.</b> Upload a resume (PDF, DOCX, or TXT), paste a job description, and get a plain-language view of matching skills, missing skills, and suggestions to improve your wording.</p>
+      <ul>
+        <li>🧮 Score combines TF-IDF text similarity with skill coverage</li>
+        <li>🔒 Files are processed in memory only, never saved or logged</li>
+        <li>✅ Backed by a 35-check automated test suite</li>
+      </ul>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
       </p>
-      <a href="https://github.com/Anshu16-coder/YOUR-REPO-3">
+      <a href="https://github.com/Anshu16-coder/Resume-Enhancer">
         <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
       </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📌 Project Four</h3>
-      <p>One or two lines about what this project does and the problem it solves.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-      </p>
-      <a href="https://github.com/Anshu16-coder/YOUR-REPO-4">
-        <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+      <a href="https://resume-enhancer-0xfi.onrender.com">
+        <img src="https://img.shields.io/badge/Live_Demo-E63946?style=for-the-badge&logo=render&logoColor=white"/>
       </a>
+      <br/>
+      <sub>Hosted on a free plan, so the first load may take a few seconds to wake up.</sub>
     </td>
   </tr>
 </table>
